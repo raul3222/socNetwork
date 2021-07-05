@@ -1,0 +1,22 @@
+.header {
+    grid-area: h;
+    background-color: #231F20;
+  }
+  .header img {
+    width: 60px;
+  }
+
+  .login{
+    float: right;
+  }
+
+  .login a{
+    color: white;
+    padding-right: 20px;
+  }
+  .login .loginView{
+    color: white;
+    padding-right: 20px;
+  }
+  
+  

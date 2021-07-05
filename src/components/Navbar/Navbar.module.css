@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color: white;
+    padding: 20px;
+  }
+
+  .item a{
+    color: gray;
+    text-decoration: none;
+    font-size: 22px;
+  }
+
+  .item a.activeLink{
+    color:coral;
+  }
+
